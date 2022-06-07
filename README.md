@@ -69,4 +69,6 @@ Como veremos en la siguiente imagen, hemos creado exitosamente los 3 contenedore
 <br>
 <br>
 ##Conclusiones
-Existen
+Existen dos errores: <br>
+El primero és la hora de la maquina virtual, la cual sale 2 horas atrasadas en las capturas <br>
+El segundo error és cuando le pongo tags a las imagenes, en la imagen de phpmyadmin pongo el tag *phpmyadmin:MysqlExamen* por error, pero despues lo cambio a *pokemon:phpmyadminExamen* y de eso no he sacado captura, ha sio error escribiendo por los nervios y lo he corregido rápido.
