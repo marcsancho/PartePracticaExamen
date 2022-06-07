@@ -24,7 +24,7 @@ En la linea 3 se inicia el primer servicio, la base de datos, en ella definimos 
 <br><br>
 Las siguientes lineas muestran los otros servicios que se van a ejecutar, en este caso ejecutamos el phpmyadmin para demostrar el funcionamiento del despliegue y asi poder ver la base de datos, ya que sin este la base de datos funciona, pero no es visible para el usuario. También se define que dependen de -db que hace referencia a la base de datos,  el servicio explicado en la primera imgaen. Las otras lineas son repeticiones de lo ya explicado en la primera imagen.
 
-##Pasos para el despliegue de la aplicación.
+## Pasos para el despliegue de la aplicación.
 La aplicación sera ejecutada desde una maquina virtual ubuntu-server 20.04 con un lubuntu instalado encima para poder ver de forma grafica que la aplicación ha sido desplegada correctamente.
 <br>
 <br>
