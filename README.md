@@ -1,11 +1,14 @@
 # PartePracticaExamen
 Por problemas con la conexión al java, no podemos usar un usuario diferente para acceder a la base de datos, por tanto el usuario decidido por todo el grupo fue prueba con la contraseña 123456.
 
-##Introducción
+# Repositorio de docker hub
+https://hub.docker.com/repository/docker/marcsancho00/pokemon
+
+## Introducción
 En este ejercicio se realizara un despliegue del proyecto usando un archivo de docker-compose.yml el cual se puede ver en los archivos del repositorio de github.
 
 
-##Configuración del archivo docker-compose
+## Configuración del archivo docker-compose
 El archivo docker compose se estructura de la siguiente manera:
 <br><br>
 ![image](https://user-images.githubusercontent.com/91566044/172449113-d79111db-4696-434f-8645-acc877218087.png)
@@ -49,7 +52,7 @@ IMPORTANTE--La hora de las imagenes no es la correcta, las imagenes han sido rea
 ![image](https://user-images.githubusercontent.com/91566044/172452631-66b63c8e-47f9-42b7-a15d-09c4fba235a3.png)
 <br>
 <br>
-##Preparación y subida de la imagen a dockerhub.
+## Preparación y subida de la imagen a dockerhub.
 Lo primero que se hará es la inserción de los tags en las diferentes imagenes:
 <br>
 ![image](https://user-images.githubusercontent.com/91566044/172453349-919404d0-0ce6-449e-8a79-40882e00c469.png)
@@ -68,7 +71,7 @@ Como veremos en la siguiente imagen, hemos creado exitosamente los 3 contenedore
 ![image](https://user-images.githubusercontent.com/91566044/172454786-dcfd67ca-9edd-4a40-bca9-7eaea0a139ab.png)
 <br>
 <br>
-##Conclusiones
+## Conclusiones
 Existen dos errores: <br>
 El primero és la hora de la maquina virtual, la cual sale 2 horas atrasadas en las capturas <br>
 El segundo error és cuando le pongo tags a las imagenes, en la imagen de phpmyadmin pongo el tag *phpmyadmin:MysqlExamen* por error, pero despues lo cambio a *pokemon:phpmyadminExamen* y de eso no he sacado captura, ha sio error escribiendo por los nervios y lo he corregido rápido.
