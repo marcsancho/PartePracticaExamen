@@ -63,4 +63,10 @@ Continuamos haciendo login en docker hub para poder subir las imagenes allí:
 ![image](https://user-images.githubusercontent.com/91566044/172454046-e86eead3-c97e-43a2-9d00-412690b1d46a.png)
 <br>
 <br>
-
+Como veremos en la siguiente imagen, hemos creado exitosamente los 3 contenedores
+<br>
+![image](https://user-images.githubusercontent.com/91566044/172454786-dcfd67ca-9edd-4a40-bca9-7eaea0a139ab.png)
+<br>
+<br>
+##Conclusiones
+Existen
